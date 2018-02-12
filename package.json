@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/MatthewWyn/veg-cafe/issues"
   },
-  "homepage": "https://github.com/MatthewWyn/veg-cafe#readme"
+  "homepage": "https://github.com/MatthewWyn/veg-cafe#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-watch": "^5.0.0"
+  }
 }
