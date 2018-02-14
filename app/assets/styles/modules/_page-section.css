@@ -1,0 +1,13 @@
+.page-section {
+	margin-top: 20px;
+	/*margin: 20px auto 0 auto;        - it was this before*/
+	
+		&--black {
+		background-color: $mainBlack;
+		color: $mainWhite;
+	}
+
+		&--orange {
+		background-color: #feca57;
+		}
+}

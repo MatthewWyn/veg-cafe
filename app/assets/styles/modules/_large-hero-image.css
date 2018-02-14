@@ -1,0 +1,4 @@
+.large-hero-image {
+	border-bottom: 15px solid $mainBlack;
+	max-width: 960px; /*Do I really need this?*/
+}
